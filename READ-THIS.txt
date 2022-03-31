@@ -4,7 +4,7 @@ Thanks For Using Windows RDP On Azure SandBox Script:
 
 Main Repository: https://github.com/kmille36/Windows-11-VPS
 
-Katacoda Site: https://katacoda.com/thuonghaiplayground2711
+Killercoda Site: https://killercoda.com/thuonghaiplayground2711
 
 Author Facebook: https://facebook.com/thuong.hai.581
 
