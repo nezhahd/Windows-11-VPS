@@ -21,6 +21,7 @@
     ```
 - *Enjoy!!*
 
+
 *VM Location: Random
 
 *Username : azureuser
