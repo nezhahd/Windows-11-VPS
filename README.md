@@ -5,7 +5,7 @@
 
 *NEW VERSION: 
 
-   ```console  
+-   ```console  
  
     curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
     
