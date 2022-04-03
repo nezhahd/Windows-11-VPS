@@ -3,7 +3,8 @@
 **Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsoft Learn Sandbox.** <br><br>
 ***😎 Its Four Hours RDP Completely Free.***
 
-*NEW VERSION: 
+*NEW VERSION RELEASE: 
+![image](https://user-images.githubusercontent.com/58414694/161441577-92b4d672-21d2-47a1-97df-d9551ac2925b.png)
 
 -   ```console  
 
