@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/58414694/161441694-583e8568-e98e-4e99-9219-0bd7a4c0f335.png)
 
 
-### Using Method (OLD):
+### Using Method (W11-ONLY):
 
 
 - *Open This : https://docs.microsoft.com/vi-vn/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
