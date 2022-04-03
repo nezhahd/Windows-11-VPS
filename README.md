@@ -13,7 +13,7 @@
     
     ```
 
-![image](https://user-images.githubusercontent.com/58414694/161441667-bbae89e6-f682-473b-931d-37c5f5d409fd.png)
+![image](https://user-images.githubusercontent.com/58414694/161441694-583e8568-e98e-4e99-9219-0bd7a4c0f335.png)
 
 
 ### Using Method:
