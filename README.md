@@ -4,7 +4,6 @@
 ***😎 Its Four Hours RDP Completely Free.***
 
 *NEW VERSION RELEASE: 
-![image](https://user-images.githubusercontent.com/58414694/161441577-92b4d672-21d2-47a1-97df-d9551ac2925b.png)
 
 -   ```console  
 
@@ -14,6 +13,7 @@
     
     ```
 
+![image](https://user-images.githubusercontent.com/58414694/161441595-f576f6e7-fe16-4372-a84a-9bb4da386124.png)
 
 
 ### Using Method:
