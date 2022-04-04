@@ -40,6 +40,6 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 - 7/2/2022: Added Chocolatey and Chocolatey GUI (software management).
 
-- 4/4/2022: RELEASE NEW VERSION: WINDOWS VM CLI PLUS (W2022/W10/W11)
+- 4/4/2022: RELEASE NEW VERSION: AZURE WIN VM PLUS (W2022/W10/W11)
 
 ================================================================
