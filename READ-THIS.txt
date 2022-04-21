@@ -42,4 +42,6 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 - 4/4/2022: RELEASE NEW VERSION: AZURE WIN VM PLUS (W2022/W10/W11)
 
+- 21/4/2022: Added Windows 11 & Windows 10 Pro (User request)
+
 ================================================================
