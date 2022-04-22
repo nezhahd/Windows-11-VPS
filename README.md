@@ -5,7 +5,7 @@
 
 ## NEW VERSION RELEASE (W2022/W10/W11): 
 
-- *Open This : https://docs.microsoft.com/vi-vn/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
+- *Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
 - *Click on Activate Sandbox
 - *Paste this into Cloud Shell :
 
@@ -21,7 +21,7 @@
 ### Using Method (W11-ONLY):
 
 
-- *Open This : https://docs.microsoft.com/vi-vn/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
+- *Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
 - *Click on Activate Sandbox
 - *Paste this into Cloud Shell :
 
@@ -60,9 +60,9 @@ DON'T USE FOR MINING OR ILLEGAL USE
 
 ### OPTIONAL:
 
-2H: https://docs.microsoft.com/vi-vn/learn/modules/create-linux-virtual-machine-in-azure/6-exercise-connect-to-a-linux-vm-using-ssh?activate-azure-sandbox=true
+2H: https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/6-exercise-connect-to-a-linux-vm-using-ssh?activate-azure-sandbox=true
 
-1H: https://docs.microsoft.com/vi-vn/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true
+1H: https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true
 
 *FAQ: Script stuck at checking...? Restart Cloud Shell then Re-run script or activate new sandbox using OPTIONAL link above.*
 
