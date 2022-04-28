@@ -3,6 +3,8 @@
 **Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsoft Learn Sandbox.** <br><br>
 ***😎 Its Four Hours RDP Completely Free.***
 
+## iS.gd server down, here fix: curl -skLO bit.do/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
+
 ## NEW VERSION RELEASE (W2022/W10/W11): 
 
 - *Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
