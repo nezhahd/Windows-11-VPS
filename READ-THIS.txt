@@ -22,7 +22,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
  VM Specs:
  
-- DS2v2 (2vCPU 7GB RAM 64GB Premium SSD). Windows 10/11 + Pro/Enterprise
+- DS2v2 (2vCPU 7GB RAM 64GB Premium SSD). Windows 2019/10/11 + Datacenter/Pro/Enterprise
 
 =================================================================
 
