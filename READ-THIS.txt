@@ -44,4 +44,6 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 - 21/4/2022: Added Windows 11 & Windows 10 Pro (User request)
 
+- 11/5/2022: Update Windows Image to newest version.
+
 ================================================================
