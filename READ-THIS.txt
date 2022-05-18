@@ -46,6 +46,6 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 - 11/5/2022: Update Windows Image to newest version.
 
-- 18/5/2022: Added India South Location (User request).
+- 18/5/2022: Added India Central Location (User request).
 
 ================================================================
