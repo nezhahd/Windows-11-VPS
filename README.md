@@ -4,7 +4,7 @@
 ***😎 Its Four Hours RDP Completely Free.***
 
 
-## NEW VERSION RELEASE (W2022/W10/W11): 
+## NEW VERSION RELEASE (Win2022/Win10/Win11): 
 
 - *Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
 - *Click on Activate Sandbox
@@ -22,9 +22,9 @@
 ### Using Method (W11-ONLY):
 
 
-- *Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
-- *Click on Activate Sandbox
-- *Paste this into Cloud Shell :
+- Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
+- Click on Activate Sandbox
+- Paste this into Cloud Shell:
 
 -  ```console  
  
@@ -35,30 +35,30 @@
 
 
 
-*VM Location: Random
 
-*Username : azureuser
 
-*Password: WindowsPassword@001
+Username: `azureuser`
+
+Password: `WindowsPassword@001`
 
 
 ![image](https://user-images.githubusercontent.com/58414694/148490063-3657aeb5-541f-4e27-88a2-735ad990df0e.png)
 
-- *Wait for it to setup the windows 11 machine*
+- Wait for it to setup the Windows 11 machine
 
-- *After its done it will give you  the ip address of the rdp/vps *
+- After it's done it will give you  the IP address of the RDP.
 
-- *open remote desktop client on windows type the ip and use the credentials provided*
+- open remote desktop client on windows type the IP and use the credentials provided
 
 
 ### WARN
-```
+
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
 DON'T USE FOR MINING OR ILLEGAL USE
 
-THIS IS NOT WORK WITH ROBLOX GAME
-```
+*Roblox* games may have degraded performance.
+
 ---
 
 ### OPTIONAL:
@@ -67,6 +67,6 @@ THIS IS NOT WORK WITH ROBLOX GAME
 
 1H: https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true
 
-*FAQ: Script stuck at checking...? Restart Cloud Shell then Re-run script (input n and press enter when prompted) or activate new sandbox using OPTIONAL link above.*
+FAQ: Script stuck at "checking"...? Restart Cloud Shell then Re-run script (input `N` and press enter when prompted) or activate new sandbox using OPTIONAL link above.
 
-#### Main Repository : https://github.com/kmille36/Windows-11-VPS
+#### Main Repository: https://github.com/kmille36/Windows-11-VPS
