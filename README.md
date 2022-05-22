@@ -67,6 +67,6 @@ DON'T USE FOR MINING OR ILLEGAL USE
 
 1H: https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true
 
-FAQ: Script stuck at "checking"...? Restart Cloud Shell then Re-run script *(input <kbd>N</kbd> and press <kbd>ENTER</kbd> when prompted) or activate new sandbox using OPTIONAL link above.*
+FAQ: Script stuck at "checking"...? Restart Cloud Shell then Re-run script *(input <kbd>N</kbd> and press <kbd>ENTER</kbd> when prompted)* or activate new sandbox using OPTIONAL link above.
 
 #### Main Repository: https://github.com/kmille36/Windows-11-VPS
