@@ -16,7 +16,7 @@
     
     ```
 
-![image](https://user-images.githubusercontent.com/58414694/161441694-583e8568-e98e-4e99-9219-0bd7a4c0f335.png)
+![image](https://user-images.githubusercontent.com/58414694/169801676-8b1e4acf-fb52-4588-9d32-f1ff217342f5.png)
 
 
 ### Using Method (W11-ONLY):
