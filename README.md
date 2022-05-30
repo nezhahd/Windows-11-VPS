@@ -1,7 +1,7 @@
 ## Windows 11 RDP
 
 Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsoft Learn Sandbox. <br><br>
-😎 Its Four Hours RDP Completely Free.
+😎 It's Four Hours RDP Completely Free.
 
 
 ## NEW VERSION RELEASE (Win2022/Win10/Win11): 
@@ -48,7 +48,7 @@ Password: `WindowsPassword@001`
 
 - After it's done, it will give you the IP address of the RDP.
 
-- Open your preferred remote desktop client, type the IP adress and use the credentials provided.
+- Open your preferred Remote Desktop client, type the IP adress and use the credentials provided.
 
 
 ### WARN
@@ -57,7 +57,7 @@ THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
 DON'T USE FOR MINING OR ILLEGAL USE
 
-*Roblox* games/Studio may have degraded performance and the in-game cursor not working due to it being connected via Remote Desktop.
+*Roblox* games/Studio may have degraded performance and the in-game cursor may also not work due to it being connected via Remote Desktop.
 
 ---
 
